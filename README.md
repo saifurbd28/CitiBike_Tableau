@@ -9,7 +9,10 @@ To do so, we need to change the "tripduration" column from an integer to a datet
 
 # Results:
 ## Deliverable 1
- 
+Changing the "tripduration" column from an integer to a datetime datatype using python
+ ![image](https://user-images.githubusercontent.com/100442163/173120452-85041890-3f68-4c9c-91f8-a06416995d4a.png)
+![image](https://user-images.githubusercontent.com/100442163/173120495-48a7dcbd-a931-4f8f-998f-1b1860afb0f4.png)
+
 
 ## Deliverable 2
 •	There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
